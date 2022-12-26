@@ -10,7 +10,7 @@ Domba terdiri dari proses :
 - pemesanan
 - pengiriman
 - pembayaran
-- 
+
 Yang dikerjakan aplikasi web php native di dalamnya terdapat :
 - Trigger
 - View
