@@ -5,9 +5,11 @@ Project kali ini bernama **SHEEPSELL**.\
 
 Gambaran Sistem :
 - Sistem Informasi ini adalah aplikasi basis data dan laporan tentang Sistem Informasi Penjualan
-Domba terdiri dari proses (a) registrasi, (b) pemesanan, (c) pengiriman, dan (d) pembayaran.
-Mahasiswa dibagi menjadi 2 kelompok untuk mengerjakan project tersebut, masing-masing
-kelompok mengerjakan proses:
+Domba terdiri dari proses 
+- registrasi 
+- pemesanan
+- pengiriman
+- pembayaran
 
 Aktor :
 - Pegawai
