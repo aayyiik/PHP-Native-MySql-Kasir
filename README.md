@@ -4,7 +4,7 @@ Project kali ini bernama **SHEEPSELL**.\
 **SHEEPSELL** adalah sistem informasi kasir penjualan domba. 
 
 Gambaran Sistem :
-- Sistem Informasi ini adalah aplikasi basis data dan laporan tentang Sistem Informasi Penjualan
+Sistem Informasi ini adalah aplikasi basis data dan laporan tentang Sistem Informasi Penjualan
 Domba terdiri dari proses 
 - registrasi 
 - pemesanan
