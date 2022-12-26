@@ -5,12 +5,17 @@ Project kali ini bernama **SHEEPSELL**.\
 
 Gambaran Sistem :
 Sistem Informasi ini adalah aplikasi basis data dan laporan tentang Sistem Informasi Penjualan
-Domba terdiri dari proses 
+Domba terdiri dari proses :
 - registrasi 
 - pemesanan
 - pengiriman
 - pembayaran
-
+- 
+Yang dikerjakan aplikasi web php native di dalamnya terdapat :
+- Trigger
+- View
+- Function/SP
+- 
 Aktor :
 - Pegawai
 
