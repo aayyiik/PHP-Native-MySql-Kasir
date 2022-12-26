@@ -15,7 +15,7 @@ Yang dikerjakan aplikasi web php native di dalamnya terdapat :
 - Trigger
 - View
 - Function/SP
-- 
+
 Aktor :
 - Pegawai
 
