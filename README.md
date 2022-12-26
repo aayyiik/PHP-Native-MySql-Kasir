@@ -1,4 +1,22 @@
-# PHP-Native-MySql-Kasir
-Pembuatan Kasir penjualan domba. Project kuliah
+# Halo semua! 
 
-Hai, kenalin nama ku ayik. Aku mahasiswi vokasi universitas airlangga surabaya.Disini saya membagikan file project aplikasi kasir yang telah saya buat. Untuk assetnya tidak saya bagikan dan hanya isi projectnya saja. Semoga apa yg saya bagikan dapat berguna untuk dipelajari. Terima kasih.
+Project kali ini bernama **SHEEPSELL**.\
+**SHEEPSELL** adalah sistem informasi kasir penjualan domba. 
+
+Gambaran Sistem :
+- Sistem Informasi ini adalah aplikasi basis data dan laporan tentang Sistem Informasi Penjualan
+Domba terdiri dari proses (a) registrasi, (b) pemesanan, (c) pengiriman, dan (d) pembayaran.
+Mahasiswa dibagi menjadi 2 kelompok untuk mengerjakan project tersebut, masing-masing
+kelompok mengerjakan proses:
+
+Aktor :
+- Pegawai
+
+Proses pengembangan :
+- PHP Native
+- DB MySql
+- Boostrap
+
+Dikerjakan Oleh :
+- Ari Lathifatul Chusna (saya) 
+
